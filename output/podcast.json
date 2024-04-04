@@ -373,8 +373,8 @@
         "maximizer": {
             "state": "true",
             "release": "25",
-            "ceiling": "0",
-            "threshold": "-18"
+            "ceiling": "-3",
+            "threshold": "-30"
         },
         "pitch": {
             "state": "false",
