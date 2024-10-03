@@ -67,7 +67,7 @@
         },
         "compressor": {
             "state": "true",
-            "input-gain": "6",
+            "input-gain": "12",
             "output-gain": "0",
             "mode": "Downward",
             "attack": "20",
