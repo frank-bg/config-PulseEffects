@@ -1,6 +1,6 @@
 {
     "spectrum": {
-        "show": "true",
+        "show": "false",
         "n-points": "100",
         "height": "120",
         "use-custom-color": "false",
